@@ -1,1 +1,36 @@
-{ "univercity":"benha", "faculty":"BFCAI", "students": [ { "id":1, "name":"kamal kassab", "age":21, "email":"kamalkimokassab@gmail.com", "phone":"01158485357" }, { "id":2, "name":"mohamed ali", "age":25, "email":"mohamedali@gmail.com", "phone":"01164153248" },{ "id":3, "name":"omar ahmed", "age":19, "email":"omar@gmail.com", "phone":"01147142585" },{ "id":4, "name":"ahmed khaled", "age":20, "email":"ahmed@gmail.com", "phone":"01158485357" },{ "id":5, "name":"ali", "age":21, "email":"ali@gmail.com", "phone":"01158651475" } ] }
+{ "univercity":"benha",
+ "faculty":"BFCAI",
+ "students": 
+ [
+   { "id":1, 
+    "name":"kamal kassab",
+    "age":21,
+    "email":"kamalkimokassab@gmail.com", 
+    "phone":"01158485357"
+   },
+   { "id":2, 
+    "name":"mohamed ali"
+    , "age":25, 
+    "email":"mohamedali@gmail.com",
+    "phone":"01164153248" 
+   },
+   { 
+     "id":3, 
+     "name":"omar ahmed", 
+     "age":19, "email":"omar@gmail.com", 
+     "phone":"01147142585" 
+   },{
+     "id":4,
+     "name":"ahmed khaled",
+     "age":20,
+     "email":"ahmed@gmail.com",
+     "phone":"01158485357"
+   },{
+     "id":5,
+     "name":"ali",
+     "age":21, 
+     "email":"ali@gmail.com", 
+     "phone":"01158651475"
+   } 
+ ] 
+}
